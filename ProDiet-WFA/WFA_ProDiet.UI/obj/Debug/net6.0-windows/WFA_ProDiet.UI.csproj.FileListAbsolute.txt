@@ -1,0 +1,243 @@
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.exe
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.deps.json
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.runtimeconfig.json
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.pdb
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Graph.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Graph.Core.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Abstractions.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Tavis.UriTemplates.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.BLL.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.DAL.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.MODELS.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.BLL.pdb
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.DAL.pdb
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.MODELS.pdb
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.AssemblyReference.cache
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.HomePage.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.CreateAccount.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.Form1.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.AddMeals.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcEditFoods.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.ucProPlan.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.ucProTakip.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcUserInfo.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcExtraReports.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcMonthlyReport.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcWeeklyReport.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.Properties.Resources.resources
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.GenerateResource.cache
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.AssemblyInfoInputs.cache
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.AssemblyInfo.cs
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.CoreCompileInputs.cache
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.CopyComplete
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\refint\WFA_ProDiet.UI.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.pdb
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.genruntimeconfig.cache
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\ref\WFA_ProDiet.UI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.exe
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.deps.json
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.runtimeconfig.json
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Graph.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Graph.Core.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Tavis.UriTemplates.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.BLL.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.DAL.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.MODELS.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.BLL.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.DAL.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.MODELS.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.HomePage.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.CreateAccount.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.AddMeals.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcEditFoods.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.ucProPlan.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.ucProTakip.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcUserInfo.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcExtraReports.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcMonthlyReport.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcWeeklyReport.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.AssemblyInfo.cs
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.CopyComplete
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\refint\WFA_ProDiet.UI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.genruntimeconfig.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.UI\obj\Debug\net6.0-windows\ref\WFA_ProDiet.UI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.exe
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.deps.json
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.runtimeconfig.json
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.UI.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Graph.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Graph.Core.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Abstractions.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Authentication.Azure.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Http.HttpClientLibrary.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Form.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Json.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Microsoft.Kiota.Serialization.Text.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\OxyPlot.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\OxyPlot.WindowsForms.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\Tavis.UriTemplates.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.BLL.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.DAL.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.MODELS.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.BLL.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.DAL.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\bin\Debug\net6.0-windows\WFA_ProDiet.MODELS.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.HomePage.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.CreateAccount.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.Form1.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.AddMeals.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcEditFoods.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.ucProPlan.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.ucProTakip.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcUserInfo.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcExtraReports.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcMonthlyReport.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.UcWeeklyReport.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.Properties.Resources.resources
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.AssemblyInfo.cs
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.csproj.CopyComplete
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\refint\WFA_ProDiet.UI.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\WFA_ProDiet.UI.genruntimeconfig.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.UI\obj\Debug\net6.0-windows\ref\WFA_ProDiet.UI.dll

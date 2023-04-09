@@ -1,0 +1,42 @@
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.deps.json
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.runtimeconfig.json
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.pdb
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.csproj.AssemblyReference.cache
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.AssemblyInfoInputs.cache
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.AssemblyInfo.cs
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\refint\WFA_ProDiet.MODELS.dll
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.pdb
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.genruntimeconfig.cache
+C:\Users\atakan.bektas\Desktop\Github\ProDiet_App\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\ref\WFA_ProDiet.MODELS.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.deps.json
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.runtimeconfig.json
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.AssemblyInfo.cs
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\refint\WFA_ProDiet.MODELS.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.genruntimeconfig.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\WFA_ProDiet-\WFA_ProDiet.MODELS\obj\Debug\net6.0\ref\WFA_ProDiet.MODELS.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.deps.json
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.runtimeconfig.json
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\bin\Debug\net6.0\WFA_ProDiet.MODELS.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.AssemblyInfo.cs
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\obj\Debug\net6.0\refint\WFA_ProDiet.MODELS.dll
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.pdb
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\obj\Debug\net6.0\WFA_ProDiet.MODELS.genruntimeconfig.cache
+C:\Users\User\Desktop\Bilge Adam\Projeler\ProDiet\Uygulama\ProDiet-WFA\WFA_ProDiet.MODELS\obj\Debug\net6.0\ref\WFA_ProDiet.MODELS.dll

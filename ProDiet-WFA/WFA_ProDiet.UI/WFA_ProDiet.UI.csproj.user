@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Forms_UserControls\HomePages\HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_UserControls\Login\CreateAccount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_UserControls\Login\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_UserControls\Others\AddMeals.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms_UserControls\Others\UcEditFoods.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms_UserControls\Others\ucProPlan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms_UserControls\Others\ucProTakip.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms_UserControls\Others\UcUserInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms_UserControls\Reports\UcExtraReports.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms_UserControls\Reports\UcMonthlyReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms_UserControls\Reports\UcWeeklyReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
