@@ -1,4 +1,6 @@
 # DiyetUygulamasi-ProDiet
+
+=> Türkçe
 Bu Windows form uygulaması, CodeFirst yaklaşımı ile katmanlı mimari kullanarak veri tabanı oluşturuyor. Kullanıcılar kalori hesaplama, öğün takibi, günlük CRUD işlemleri ve diğer kullanıcılarla haftalık ve aylık bazda grafik destekli kalori tüketim kıyaslaması yapabilirler.
 
 #ProDiet – README
@@ -10,7 +12,23 @@ Bu Windows form uygulaması, CodeFirst yaklaşımı ile katmanlı mimari kullana
 
 - Programın çalıştırılabilmesi için ‘Eventlerin’ tekrardan formlara yüklenmesi gerekebilir. Aşağıda belirtilen eventlerin atamasının yapılması gerekmektedir.
 
-- Events must be reloaded into the forms in order to run the program. Events disappear when different accounts access and modify the program via Github. The following events must be assigned to the code.
+=> English
+
+This Windows form application creates a database using a layered architecture with the CodeFirst approach. Users can calculate calories, track their meals, perform daily CRUD operations, and compare their calorie consumption with others using graph-supported weekly and monthly comparisons.
+
+#ProDiet – README
+
+This Windows form application creates a database using a layered architecture with the CodeFirst approach. The application performs personalized calorie calculations based on user input and allows the user to track their meal consumption on a per-meal basis. Additionally, users can perform CRUD operations to manage their daily calorie intake.
+
+The application offers users a graph to compare their calorie consumption with other users. Users can compare their calorie consumption on a weekly and monthly basis.
+
+To run the application, you must go to the "Helpers" class in the "Data Access Layer" and change the name of the SQL Server with your own computer name. Below, this process is explained in more detail.
+
+To run the program, the events may need to be reassigned to the forms. The assignment of the events listed below is required.
+
+
+
+
 
 
 #SQL Server Name
