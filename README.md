@@ -89,6 +89,7 @@ tmrWriteMessage_Tick
 
 
 - ucProTakip Events
+
 btnAddBreakFast_Click
 btnAddLunch_Click
 btnAddDinner_Click
@@ -98,18 +99,22 @@ dtpMealDate_ValueChanged
 
 
 - ucUserInfo Events
+
 ıconButton2_Click
 ıconButton1_Click
 
 
 - ucExtraReport Events
+
 btnMostConsumed_Click
 btnLeastConsumed_Click
 
 
 - ucMonthlyReport Events
+
 btnCompareByCalorie_Click
 
 
 - ucWeeklyReport Events
+
 btnCompareByCalorie_Click
