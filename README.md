@@ -14,17 +14,13 @@ Bu Windows form uygulaması, CodeFirst yaklaşımı ile katmanlı mimari kullana
 
 => English
 
-This Windows form application creates a database using a layered architecture with the CodeFirst approach. Users can calculate calories, track their meals, perform daily CRUD operations, and compare their calorie consumption with others using graph-supported weekly and monthly comparisons.
+- This Windows form application creates a database using a layered architecture with the CodeFirst approach. The application performs personalized calorie calculations based on user input and allows the user to track their meal consumption on a per-meal basis. Additionally, users can perform CRUD operations to manage their daily calorie intake.
 
-#ProDiet – README
+- The application offers users a graph to compare their calorie consumption with other users. Users can compare their calorie consumption on a weekly and monthly basis.
 
-This Windows form application creates a database using a layered architecture with the CodeFirst approach. The application performs personalized calorie calculations based on user input and allows the user to track their meal consumption on a per-meal basis. Additionally, users can perform CRUD operations to manage their daily calorie intake.
+- To run the application, you must go to the "Helpers" class in the "Data Access Layer" and change the name of the SQL Server with your own computer name. Below, this process is explained in more detail.
 
-The application offers users a graph to compare their calorie consumption with other users. Users can compare their calorie consumption on a weekly and monthly basis.
-
-To run the application, you must go to the "Helpers" class in the "Data Access Layer" and change the name of the SQL Server with your own computer name. Below, this process is explained in more detail.
-
-To run the program, the events may need to be reassigned to the forms. The assignment of the events listed below is required.
+- To run the program, the events may need to be reassigned to the forms. The assignment of the events listed below is required.
 
 
 
